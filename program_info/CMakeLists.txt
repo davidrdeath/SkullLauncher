@@ -8,9 +8,9 @@ if(UNIX)
     endif()
 endif()
 
-set(Launcher_CommonName "PrismLauncher")
-set(Launcher_DisplayName "Prism Launcher")
-set(Launcher_AppID "org.prismlauncher.PrismLauncher")
+set(Launcher_CommonName "SkullLauncher")
+set(Launcher_DisplayName "Skull Launcher")
+set(Launcher_AppID "org.prismlauncher.SkullLauncher")
 set(Launcher_Domain "prismlauncher.org")
 set(Launcher_Git "https://github.com/PrismLauncher/PrismLauncher")
 
