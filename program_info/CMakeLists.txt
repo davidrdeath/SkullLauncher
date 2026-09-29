@@ -10,7 +10,7 @@ endif()
 
 set(Launcher_CommonName "SkullLauncher")
 set(Launcher_DisplayName "Skull Launcher")
-set(Launcher_AppID "org.prismlauncher.SkullLauncher")
+set(Launcher_AppID "org.prismlauncher.PrismLauncher")
 set(Launcher_Domain "skulllauncher.org")
 set(Launcher_Git "https://github.com/SkullLauncher/SkullLauncher")
 
