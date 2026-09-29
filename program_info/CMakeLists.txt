@@ -10,13 +10,13 @@ endif()
 
 set(Launcher_CommonName "SkullLauncher")
 set(Launcher_DisplayName "Skull Launcher")
-set(Launcher_AppID "org.prismlauncher.SkullLauncher")
-set(Launcher_Domain "prismlauncher.org")
-set(Launcher_Git "https://github.com/PrismLauncher/PrismLauncher")
+set(Launcher_AppID "org.skulllauncher.SkullLauncher")
+set(Launcher_Domain "skulllauncher.org")
+set(Launcher_Git "https://github.com/SkullLauncher/SkullLauncher")
 
 set(Launcher_Name "${Launcher_CommonName}" PARENT_SCOPE)
 set(Launcher_DisplayName "${Launcher_DisplayName}" PARENT_SCOPE)
-set(Launcher_ENVName "PRISMLAUNCHER" PARENT_SCOPE)
+set(Launcher_ENVName "SKULLLAUNCHER" PARENT_SCOPE)
 set(Launcher_Domain "${Launcher_Domain}" PARENT_SCOPE)
 set(Launcher_Git "${Launcher_Git}" PARENT_SCOPE)
 
