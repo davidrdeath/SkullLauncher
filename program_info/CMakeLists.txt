@@ -8,7 +8,7 @@ if(UNIX)
     endif()
 endif()
 
-set(Launcher_CommonName "SkullLauncher")
+set(Launcher_CommonName "PrismLauncher")
 set(Launcher_DisplayName "Skull Launcher")
 set(Launcher_AppID "org.prismlauncher.PrismLauncher")
 set(Launcher_Domain "skulllauncher.org")
